@@ -1,0 +1,58 @@
+<html>
+<head>
+   <title> Filé de frango à parmegiana</title>
+</head>
+<body>
+	<h1> Filé de frango à parmegiana </h1>
+	
+	<figure>
+		<video width="400" height="300" muted autoplay controls>
+			<source src="C:\Users\Aluno22PROA\Desktop\Atividades da Aula\Videos\FiléÀparmegiana.mp4" type="Video/mp4">
+		</video>
+		<figcaption><strong>Video da receita Filé frango à parmegiana</strong></figcaption>
+	</figure>
+	
+	<h2>Receita completa</h2>
+	
+	<h4>Ingredientes necessários</h4>
+	
+	<ul>
+		<li> 1/2 kg de filé de frango</li>
+		<li> 1 dente de aho picado</li>
+		<li> suco de limão, ervas e sal a gosto</li>
+		<li> óleo para fritar</li>
+		<li><b> empanar: </b></li>
+		<li> 2 ovos batidos com 1 pitada de sal</li>
+		<li> 2 xícaras (chá) de farinha de rosca </li>
+		<li><b> Molho: </b></li>
+		<li> 1 cebolinha picadinha </li>
+		<li> 2 tomates maduros picadinhos</li>
+		<li> 1/2 xícara (chá) de água</li>
+		<li> 3 colheres (sopa) de azeite</li>
+		<li> 1 tabletinho de caldo de galinha</li>
+		<li> manjericão ou orégano a gosto</li>
+		<li><b> Finalizar: </b></li>
+		<li> 250g de mussarela em fatias</li>	
+	</ul>
+	
+	<h2> MODO DE PREPARO</h2>
+	
+	<ol>
+		<li> Tempere os filés de frango com o alho, suco de limão, ervas finas e sal a gosto.</li>
+		<li> Deixe na geladeira por 30 minutos.</li>
+		<li> Após esse tempo, passe nos ovos batidos e na farinha de rosca.</li>
+		<li> Frite em óleo não muito quente.</li>
+		<li> Retire e deixe descansar sobre o papel absorvente.</li>
+		<li><b> Molho:</b></li>
+		<li> Doure a cebola no azeite, acrescente os tomates picadinhos, o molho pronto, a água e o caldo de galinha</li>
+		<li> Deixe apurar um pouco, desligue e acrescente o manjericão ou o orégano.</li>
+		<li> Coloque os filés em um refratário.</li>
+		<li> Cubra com a mussarela em fatias</li>
+		<li> Regue com o molho e leve ao forno bem quente, somente para derreter a mussarela</li>
+		<li> Retire e sirva-se</li>
+	</ol>
+	
+	<img src="C:\Users\Aluno22PROA\Desktop\Atividades da Aula\Imagens\FiléParmegiana.jpg" width="400" height="200"/>
+	<figure><strong> Bom apetite</strong></figure>
+</body>
+</html>
